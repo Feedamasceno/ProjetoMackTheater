@@ -32,6 +32,8 @@ Nome do Cliente: José da Silva
 CPF: 12345678900
 
 Retorna ao menu principal 
+<div>
+<h2>
 
 ### Compra de Entradas
 
@@ -74,5 +76,5 @@ Informe o CPF do Cliente Cadastrado: 12345678900
 Valor Total: R$ 45.00
 
 >>> Retorna ao menu principal <<<
-
-
+</h2>
+</div>
